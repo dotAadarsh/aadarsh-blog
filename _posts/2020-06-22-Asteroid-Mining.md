@@ -10,6 +10,7 @@ tags: [space]
 We are using lots and lots of resources every day unlimitedly. Just thinking about the resources by the way and curious to write this post about one of the techniques we are trying to extract the resources. If you take one of the most populated countries like India, about 70% of natural resources have been overconsumed the report of WWF in 2018. So we will be in trouble in the later years. The researchers are finding different ways the extraction the resources. One of the extraction of resources that can be done in space is 'Asteroid Mining.
 
 Asteroids are small, rocky objects that orbit the Sun. Although asteroids orbit the Sun like planets, they are much smaller than planets.
+
 ![Asteroid Gif](https://media.giphy.com/media/l1J9HHnpVLEJiMepW/giphy.gif)
  
 ### What does it mean?
@@ -21,6 +22,7 @@ Asteroid mining is the extraction of crude materials from asteroids and other mi
 The elements needed for modern industry and the production of food, as estimated could be exhausted within 50 to 60 years. Hard to hear But that's the truth. The elements include copper antimony, zinc, tin, lead, indium, silver, gold, and phosphorus. It has been suggested that valuable elements like platinum, cobalt and more from the asteroids may be mined and sent to earth for many purposes like building solar-power satellites and space habitats, and water processed from ice to refuel orbiting propel like ant depots and most importantly profit.
 
 ![A Mars habitat in conjunction with other surface elements on Mars (artwork)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/PIA23302-FirstHumansOnMars-ArtistConcept.jpg/500px-PIA23302-FirstHumansOnMars-ArtistConcept.jpg "source:https://photojournal.jpl.nasa.gov/jpeg/PIA23302.jpg")
+
 Img: A Mars habitat in conjunction with other surface elements on Mars (artwork) - [NASA](https://commons.wikimedia.org/wiki/File:PIA23302-FirstHumansOnMars-ArtistConcept.jpg), Public domain, via Wikimedia Commons
 
 ### Which one? 
@@ -71,6 +73,7 @@ But still, many companies like  [Planetary Resources](https://en.wikipedia.org/w
 ### Conclusion
 
 Asteroid mining is a long-term proposition, and its commercial viability will depend on a number of factors, including the development of new technologies, the availability of capital, and the political and economic stability of the Earth. But lets just save the resources on earth. 
+
 ![](https://1.bp.blogspot.com/-qG1X24YHu0I/XvBCyR9gzEI/AAAAAAAAAvE/Y0Zl-AeyptAdyX4aUmuW-1RFOw9F3WeSACK4BGAsYHg/s320/kissclipart-go-green-png-clipart-environmentally-friendly-0ead370ba78686e1.png)
 
 *[Previously published on [Zeronite](https://0-nite.blogspot.com/)]*
