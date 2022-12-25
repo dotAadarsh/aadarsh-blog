@@ -5,7 +5,7 @@ categories: [Programming]
 tags: [python]
 ---
 
-![Introduction to Python]()
+![Introduction to Python](https://github.com/dotAadarsh/aadarsh-blog/blob/a8017614cb17d540c64aec8d85f55b66a70935ad/assets/media/Introduction_to_python.png)
 
 ### Introduction
 
@@ -48,7 +48,7 @@ In Python, printing "Hello, World!" to the console is very easy. All you need to
 
 - Python official website [↗️](https://www.python.org/)
 - Repositories related to the Python Programming language [↗️](https://github.com/python)
-- freeCodeCamp articles | Python [↗️](https://www.freecodecamp.org/news/search/?query=python)
+- freeCodeCamp articles - Python [↗️](https://www.freecodecamp.org/news/search/?query=python)
 
 ### Conclusion
 
