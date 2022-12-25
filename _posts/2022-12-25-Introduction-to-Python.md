@@ -5,7 +5,7 @@ categories: [Programming]
 tags: [python]
 ---
 
-![Introduction to Python](https://miro.medium.com/max/1400/1*nIDluzlAjcmzZ17wcpvnAw.webp)
+![Introduction to Python](https://github.com/dotAadarsh/aadarsh-blog/blob/78e0ebf0c8bf1ad91a0b74aa76b8c475e9dd9d72/assets/media/Introduction_to_python.png)
 
 ### Introduction
 
