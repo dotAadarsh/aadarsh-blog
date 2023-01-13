@@ -6,10 +6,12 @@ tags: [python]
 ---
 
 ### Get started
-All you need to do is get started as i am started by writing this article.
+Python is a powerful, versatile programming language that is widely used for web development, data analysis, artificial intelligence, and more. It's known for its simple and easy-to-learn syntax, making it a great choice for beginners.
 
-> To run the code, type `python <filename.py>` in the shell
-{: .prompt-info }
+To help you get started with Python programming, here are a few basic examples.
+
+> To run the code, type `python <filename.py>` in the shell.
+{: .prompt-info } 
 
 #### Hello, World!
 
