@@ -7,6 +7,8 @@ tags: [python, opensource, streamlit]
 
 Ah, te voilà! Ever wondered if you can build apps with just a few lines of script/lines of codes. This is where **Streamlit** comes into play!
 
+![Streamlit](https://community.codenewbie.org/images/TSu5D2bPkxaCjUfhGsdsnvuklypQL7uBFUuMfotxZcE/s:1000:420/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMvd3N3eW4ybnhv/NnF0cHE5djBkM2ou/anBn)
+
 # About streamlit
 
 [**Streamlit**](https://streamlit.io/) is an open-source app framework for Machine Learning and data science. It is based on the idea that the best way to learn and use new tools is not through tutorial articles or videos, but by exploring working examples.
@@ -29,7 +31,7 @@ streamlit hello
 
 You will be able to see the page as shown below!
 
-![Streamlit_homepage.png](./assets/media/streamlit-server.png)
+![Streamlit_homepage.png](https://community.codenewbie.org/images/1fzfnMXHejdh5leS1_qgBKZe5oBc0Ke57Z6JP0dV_18/w:880/mb:500000/ar:1/aHR0cHM6Ly9kZXYt/dG8tdXBsb2Fkcy5z/My5hbWF6b25hd3Mu/Y29tL3VwbG9hZHMv/YXJ0aWNsZXMvcGYw/NXo2dmRid3o2cjBm/aHpqN3AucG5n)
 
 And that's it boom! you are done setting up the framework! Now we can start building whatever the hell we want.
 
@@ -141,9 +143,7 @@ $ streamlit run rickandmorty.py
 
 Once you run the script, you will be able to see a tab in your browser. You can run this in the beginning and build your app by visualizing each element. This will help you understand quickly.
 
-[![rickandmorty_page.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658049949764/n6dPZawmt.png align="left")](https://dotaadarsh-30daysofstreamlit-miscrickandmorty-k6x6ey.streamlitapp.com/)
-
-Live demo of our app - [OOH WEE!](https://dotaadarsh-30daysofstreamlit-miscrickandmorty-k6x6ey.streamlitapp.com/)
+![rickandmorty_page.png](https://community.codenewbie.org/images/fiT17x8u28llv-9Xx8BM5_I-H2-wmqnG-nxlUNcE3-k/w:880/mb:500000/ar:1/aHR0cHM6Ly9kZXYt/dG8tdXBsb2Fkcy5z/My5hbWF6b25hd3Mu/Y29tL3VwbG9hZHMv/YXJ0aWNsZXMvdG53/ZjZsdnN6ZjlsOGVr/bHpwbnoucG5n)
 
 Try experimenting around and build whatever you want.
 
@@ -156,26 +156,26 @@ Need inspiration? Check out what creators from around the world are building - [
 * Sign up for [Streamlit Cloud](https://share.streamlit.io/signup) \[with GitHub recommended\]
     
 
-![Sign up for Streamlit Cloud.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658039402699/jC-mF0lV_.png align="left")
+![Sign up for Streamlit Cloud.png](https://community.codenewbie.org/images/z4e0o55oW1rNLUaEDFYh1mwHRpNqZJxBsOoq6xtNn2w/w:880/mb:500000/ar:1/aHR0cHM6Ly9kZXYt/dG8tdXBsb2Fkcy5z/My5hbWF6b25hd3Mu/Y29tL3VwbG9hZHMv/YXJ0aWNsZXMvYjR4/bm5tbGQwbG5rempk/MnVhdjAucG5n)
 
 * Log in to share.streamlit.io
     
 * Once you have signed in to GitHub, you will be taken to your Streamlit Cloud workspace!
     
 
-![Streamlit Cloud workspace.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658039520375/E1JkfyLM_.png align="left")
+![Streamlit Cloud workspace.png](https://community.codenewbie.org/images/IMnsJJH4G-qhqSHdSh5GiFRBwzk3M6MX7t05OETwxwg/w:880/mb:500000/ar:1/aHR0cHM6Ly9kZXYt/dG8tdXBsb2Fkcy5z/My5hbWF6b25hd3Mu/Y29tL3VwbG9hZHMv/YXJ0aWNsZXMvdWpv/MnI3eWZyb2FiY3Y0/bGZkcTQucG5n)
 
 * To deploy an app, click "New app", then fill in your repo, branch, and file path, or click "Paste GitHub URL" and click "Deploy".
-    
 
-![deploy_your_app.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658039811970/TFP2xbo_b.png align="left")
+
+![deploy_your_app.png](https://community.codenewbie.org/images/AIaJMqCruMJhEa6IXopu4735KgZa_tQ9fJW7SU8PaXU/w:880/mb:500000/ar:1/aHR0cHM6Ly9kZXYt/dG8tdXBsb2Fkcy5z/My5hbWF6b25hd3Mu/Y29tL3VwbG9hZHMv/YXJ0aWNsZXMvMnBm/YmkycjVlZmFnOXEx/YWFveGoucG5n)
 
 * You can now watch your app deploy and launch.
     
 
-![deploy_manager.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658040189516/TPRXc9LN7.png align="left")
+![deploy_manager.png](https://community.codenewbie.org/images/GuhX1xhmIys2VONfD70CXQb6iirB0bT5FwdhA_0C9GE/w:880/mb:500000/ar:1/aHR0cHM6Ly9kZXYt/dG8tdXBsb2Fkcy5z/My5hbWF6b25hd3Mu/Y29tL3VwbG9hZHMv/YXJ0aWNsZXMvd2M0/dTA4Zzhldm11MmIz/eGVybmsucG5n)
 
-And that's it! Your app is live now; just like this [live demo](https://dotaadarsh-30daysofstreamlit-miscrickandmorty-k6x6ey.streamlitapp.com/) and you can share it with others.
+And that's it! Your app is live now and you can share it with others.
 
 # Resources 📚
 
@@ -194,7 +194,7 @@ There are many more possibilities with Streamlit. For example, you can use it to
 
 Recently Streamlit has launched [multipage apps](https://blog.streamlit.io/introducing-multipage-apps/) 📄 and Dashboard analytics 📊. It's been evolving so quickly and gaining a lot of popularity among open-source developers. So what are you waiting for? Start building with Streamlit!
 
-![sdsf](https://c.tenor.com/ErMSuHlcE8IAAAAi/clown-it.gif align="left")
+![balloon](https://c.tenor.com/ErMSuHlcE8IAAAAi/clown-it.gif align="left")
 
 Happy Streamlit-ing 🎈
 
