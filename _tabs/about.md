@@ -23,3 +23,14 @@ Hello! My name is Aadarsh Kannan and I am a pop music enthusiast, cyberpunk fan,
 |Hackatra 2022|AI4QE|ekatra| Runner| [Devpost](https://devpost.com/software/ai4qe)|
 
 [![An image of @dotaadarsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dotaadarsh)](https://holopin.io/@dotaadarsh)
+
+### Certification/Badges
+
+| Skill | Organizer | Link|
+|--|--|--|
+|  Developer Virtual Experience Program| Accenture|[↗️](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20Nordics/PxenP4rHNE6Bh4nQz_Accenture%20Nordics_2omuraDWNDR8MeCDq_1673819731648_completion_certificate.pdf)|
+|MongoDB Python Developer Path| MongoDB | [↗️](https://learn.mongodb.com/c/FxXu91G2QWKd3ryIA0lfkQ)|
+|30 days of Postman - for developers| Postman |[↗️](https://badgr.com/public/assertions/zTkhg94PQMSjuzpb08ynSg)|
+|Data Science Foundations - Level 1|IBM|[↗️](https://www.credly.com/badges/fad8873b-1c2a-4705-b5d1-d6eb4e24502a?source=linked_in_profile)|
+|Neo4j Fundamentals|Neo4j|[↗️](https://graphacademy.neo4j.com/u/396b9515-379d-41a1-9e26-dfe97d1930a3/neo4j-fundamentals/)|
+|SQL and Relational Databases 101|IBM |[↗️](https://courses.yl-ptech.skillsnetwork.site/certificates/f0f5906b4ed9468e868ee90d44750265)|
