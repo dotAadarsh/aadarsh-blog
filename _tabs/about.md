@@ -34,3 +34,7 @@ Hello! My name is Aadarsh Kannan and I am a pop music enthusiast, cyberpunk fan,
 |Data Science Foundations - Level 1|IBM|[↗️](https://www.credly.com/badges/fad8873b-1c2a-4705-b5d1-d6eb4e24502a?source=linked_in_profile)|
 |Neo4j Fundamentals|Neo4j|[↗️](https://graphacademy.neo4j.com/u/396b9515-379d-41a1-9e26-dfe97d1930a3/neo4j-fundamentals/)|
 |SQL and Relational Databases 101|IBM |[↗️](https://courses.yl-ptech.skillsnetwork.site/certificates/f0f5906b4ed9468e868ee90d44750265)|
+
+### Github Stats  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dotaadarsh&show_icons=true&count_private=true&hide_border=true" align="left" /></div> 
