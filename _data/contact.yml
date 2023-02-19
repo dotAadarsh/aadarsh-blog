@@ -17,10 +17,18 @@
   icon: 'fab fa-linkedin'   
   url:  'https://in.linkedin.com/in/dotaadarsh'
   noblank: true
+
+-
+  type: spotify
+  icon: 'fab fa-spotify'   
+  url:  'https://open.spotify.com/user/w4vmhygkyyzefhe1u3bpqrlo6'
+  noblank: true
+  
 -
   type: rss
   icon: 'fas fa-rss'
   noblank: true
+
 
 
 # Uncomment and complete the url below to enable more contact options
