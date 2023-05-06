@@ -7,7 +7,7 @@ order: 4
 Hello! My name is Aadarsh Kannan and I am a pop music enthusiast, cyberpunk fan, mechatronics engineer, and explorer with a curious nature and a passion for new technologies. I am interested in working in multidisciplinary areas and building stuff that I like.
 
 --- 
-### Projects
+## Projects
 
 `#1`
 
@@ -40,6 +40,7 @@ Hello! My name is Aadarsh Kannan and I am a pop music enthusiast, cyberpunk fan,
 **Achievements:**  [Courier Hacks: Python Programs 3rd Place](https://devpost.com/software/tnc-digest)
 
 `#4`
+
 **Title:**  [Aadarsh Kannan's Blog](https://www.aadarshkannan.tech/)
 
 **Description:** Documenting and sharing my journey.
@@ -47,6 +48,7 @@ Hello! My name is Aadarsh Kannan and I am a pop music enthusiast, cyberpunk fan,
 **Tech stack:** Template from Ruby, Vercel
 
 `#5`
+
 **Title:**  [Streamlit projects](https://github.com/dotAadarsh/streamlit-projects)
 
 **Description:** Exploring and building projects with APIs
@@ -55,7 +57,7 @@ Hello! My name is Aadarsh Kannan and I am a pop music enthusiast, cyberpunk fan,
 
 ---
 
-### Certification/Badges
+## Certification/Badges
 
 | Skill | Organizer | Link |
 |--|--|--|
@@ -75,7 +77,7 @@ Hello! My name is Aadarsh Kannan and I am a pop music enthusiast, cyberpunk fan,
 
 ---
 
-### Spotify playlists
+## Spotify playlists
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/57qw5cTFY3U7HHBvyyTHE6?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
