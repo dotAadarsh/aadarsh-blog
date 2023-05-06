@@ -6,6 +6,7 @@ order: 4
 
 Hello! My name is Aadarsh Kannan and I am a pop music enthusiast, cyberpunk fan, mechatronics engineer, and explorer with a curious nature and a passion for new technologies. I am interested in working in multidisciplinary areas and building stuff that I like.
 
+--- 
 ### Projects
 
 `#1`
@@ -52,6 +53,7 @@ Hello! My name is Aadarsh Kannan and I am a pop music enthusiast, cyberpunk fan,
 
 **Tech stack:** APIs + Streamlit
 
+---
 
 ### Certification/Badges
 
@@ -64,11 +66,14 @@ Hello! My name is Aadarsh Kannan and I am a pop music enthusiast, cyberpunk fan,
 |Neo4j Fundamentals|Neo4j|[↗️](https://graphacademy.neo4j.com/u/396b9515-379d-41a1-9e26-dfe97d1930a3/neo4j-fundamentals/)|
 |SQL and Relational Databases 101|IBM |[↗️](https://courses.yl-ptech.skillsnetwork.site/certificates/f0f5906b4ed9468e868ee90d44750265)|
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dotaadarsh&show_icons=true&count_private=true&hide_border=true" align="left" />
+</div>
+
+
 [![An image of @dotaadarsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dotaadarsh)](https://holopin.io/@dotaadarsh)
 
-
-<div  align="center"><img  src="https://github-readme-stats.vercel.app/api?username=dotaadarsh&show_icons=true&count_private=true&hide_border=true"  align="left"  /></div>
-
+---
 
 ### Spotify playlists
 
