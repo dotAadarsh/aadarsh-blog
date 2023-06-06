@@ -1,5 +1,5 @@
 ---
-title: 1xx - Informational
+title: 1xx - Informational Responses
 date: 2023-06-06 00:00:00 
 categories: [IT]
 tags: [networking, http-codes]
@@ -25,9 +25,8 @@ As guidance, if a method is taking longer than 20 sec (a reasonable, but arbitra
 
 The HTTP 103 Early Hints information response status code is a code that is mostly used with the Link header. This header allows the user agent to start preloading resources while the server is still preparing a response.
 
-
-%[https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#information_responses]
-
+Reference - [Mozilla Docs | Information Responses](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#information_responses)
 
 Thanks for the read and stay tuned! 
+
 \- [Aadarsh K](https://twitter.com/dotAadarsh)

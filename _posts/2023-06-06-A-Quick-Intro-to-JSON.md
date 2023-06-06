@@ -49,13 +49,9 @@ When sending data to a web server, the data has to be a string. Convert a JavaSc
 
 Check out this video by quick @[beaucarnes](https://twitter.com/beaucarnes?lang=en) via freeCodeCamp for a quick introduction to JSON
 
-%[https://youtu.be/B-k76DMOj2k]
+{% include embed/{youtube}.html id='{B-k76DMOj2k}' %}
 
-You can visualize your JSON data instantly into graphs with this JSON Crack tool.
-
-%[https://jsoncrack.com/editor]
-
-Thanks for the read!
+You can visualize your JSON data instantly into graphs with this [JSON Crack tool](https://jsoncrack.com/editor). Thanks for the read!
 
 \- [Aadarsh K](https://twitter.com/dotAadarsh)
 

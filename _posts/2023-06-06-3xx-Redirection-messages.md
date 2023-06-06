@@ -47,10 +47,11 @@ If a client requests a resource from a server, and the server sends this respons
 
 This means that a resource that was once located at one URI is now permanently located at another URI. The user agent (a web browser, for example) must not change the HTTP method used when making the second request to the new URI.
 
-%[https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#redirection_messages]
+Refer [Mozilla Docs - Redirection Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#redirection_messages
+)
+
+Check out [1xx](https://community.codenewbie.org/engineeredsoul/1xx-informational-2bo2) and [2xx](https://community.codenewbie.org/engineeredsoul/successful-response-200-15nm), if you have missed out. Thanks for the read.
 
 
-Check out [1xx](https://community.codenewbie.org/engineeredsoul/1xx-informational-2bo2) and [2xx](https://community.codenewbie.org/engineeredsoul/successful-response-200-15nm), if you have missed out.
-Thanks for the read. 
 \- [Aadarsh](https://twitter.com/dotAadarsh)
 
