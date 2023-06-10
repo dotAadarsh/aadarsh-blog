@@ -1,8 +1,8 @@
 ---
 title: You can just turn data scripts into apps!
 date: 2023-01-13 00:00:00 
-categories: [Programming]
-tags: [python, opensource, streamlit]
+categories: [Technology, Development]
+tags: [data scripts, apps]
 ---
 
 Ah, te voilà! Ever wondered if you can build apps with just a few lines of script/lines of codes. This is where **Streamlit** comes into play!

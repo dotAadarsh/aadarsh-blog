@@ -1,8 +1,8 @@
 ---
 title: HYPERLOOP | Futuristic Transportation
 date: 2020-08-07 00:00:00 
-categories: [General]
-tags: [transportation]
+categories: [Technology, Transportation]
+tags: [hyperloop, futuristic transportation]
 ---
 
 ### **HYPERL∞P**

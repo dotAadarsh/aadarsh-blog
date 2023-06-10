@@ -1,8 +1,8 @@
 ---
 title: Python Programming Examples | Part-1
 date: 2023-01-13 00:00:00 
-categories: [Programming]
-tags: [python]
+categories: [Technology, Programming]
+tags: [python, programming, examples]
 ---
 
 ### Get started

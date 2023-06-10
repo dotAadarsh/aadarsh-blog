@@ -1,8 +1,8 @@
 ---
 title: Streamlining Audio Transcription | Using the OpenAI Whisper Model in a Single Post Request
 date: 2023-01-28 00:00:00 
-categories: [Artificial_Intelligence]
-tags: [openai, speech-to-text, audio]
+categories: [Technology, Artificial Intelligence]
+tags: [audio transcription, openai, whisper]
 ---
 
 Artificial Intelligence is currently applied in all fields. It's been wild and the development is tremendous. One of the interesting applications of AI is speech recognition. **Automatic speech recognition** (ASR) is a technology that allows machines to understand and interpret spoken language. Nowadays it can be seen in most places. This technology is used in a variety of applications, such as virtual assistants, language translation services, and voice-controlled devices. Some common examples include Siri, Google Assistant, and Amazon Alexa.

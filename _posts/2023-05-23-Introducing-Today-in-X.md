@@ -1,7 +1,7 @@
 ---
 title: Today in X
 date: 2023-05-22 00:00:00 
-categories: [Today_in_X]
+categories: [Today in X]
 tags: [events, resources, synopsai, jobs, repo]
 ---
 

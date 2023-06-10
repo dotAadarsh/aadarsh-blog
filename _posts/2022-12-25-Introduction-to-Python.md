@@ -1,8 +1,8 @@
 ---
 title: Introduction to Python
 date: 2022-12-25 00:00:00 
-categories: [Programming]
-tags: [python]
+categories: [Technology, Programming]
+tags: [python, programming]
 ---
 
 ![Introduction to Python](https://raw.githubusercontent.com/dotAadarsh/aadarsh-blog/78e0ebf0c8bf1ad91a0b74aa76b8c475e9dd9d72/assets/media/Introduction_to_python.png)

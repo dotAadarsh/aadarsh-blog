@@ -1,8 +1,8 @@
 ---
 title: 1xx - Informational Responses
 date: 2023-06-06 00:00:00 
-categories: [IT]
-tags: [networking, http-codes]
+categories: [Technology, Web Development]
+tags: [1xx, informational responses]
 ---
 
 A 1xx status code is a provisional response from a server. It consists of the Status-Line and optional headers and is terminated by an empty line. There are no required headers for this class of status code.

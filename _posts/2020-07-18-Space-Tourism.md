@@ -1,8 +1,8 @@
 ---
 title: Space Tourism
 date: 2020-07-18 00:00:00 
-categories: [General]
-tags: [space, tourism]
+categories: [Space, Tourism]
+tags: [space tourism]
 ---
 
 ### Introduction

@@ -1,8 +1,8 @@
 ---
 title: Mars Helicopter Ingenuity
 date: 2020-07-29 00:00:00 
-categories: [General]
-tags: [space]
+categories: [Space, Exploration]
+tags: [mars, helicopter, ingenuity]
 ---
 
 ### Introduction

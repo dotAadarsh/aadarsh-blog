@@ -1,8 +1,8 @@
 ---
 title: Camouflage Architecture
 date: 2020-07-15 00:00:00 
-categories: [General]
-tags: [architecture] 
+categories: [Architecture, Design]
+tags: [camouflage architecture] 
 ---
 
 We are in the huge development of the technologies. But what about the architecture? What is the improvement in it? What's the recent research going on in architecture? So here is the topic called camouflage architecture.

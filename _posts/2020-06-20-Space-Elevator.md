@@ -1,8 +1,8 @@
 ---
 title: Space Elevator | A Science Fiction or A Future of Mankind
 date: 2020-06-20 00:00:00 
-categories: [General, Technology]
-tags: [space]
+categories: [Space, Technology]
+tags: [space elevator, science fiction, future]
 ---
 ### Introduction
 

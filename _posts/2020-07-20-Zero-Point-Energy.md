@@ -1,8 +1,8 @@
 ---
 title: Zero Point Energy
 date: 2020-07-20 00:00:00 
-categories: [General]
-tags: [energy, research]
+categories: [Science, Energy]
+tags: [zero point energy]
 ---
 
 The energy consumption of the world was about 13.3 billion toe (ton of oil equivalent) by the 2016 data on energy consumption and population. We now have the world average consumption of 57 kWh of primary energy per day per person. So we are in huge demand for energy. A lot and a lot and a lot more...

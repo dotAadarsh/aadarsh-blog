@@ -1,8 +1,8 @@
 ---
 title: Asteroid Mining
 date: 2020-06-22 00:00:00 
-categories: [General]
-tags: [space] 
+categories: [Space, Technology]
+tags: [asteroid mining] 
 ---
 
 ### Introduction

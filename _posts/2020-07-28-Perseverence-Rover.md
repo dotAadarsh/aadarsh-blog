@@ -1,8 +1,8 @@
 ---
 title: Mars 2020 Perseverance Rover
 date: 2020-07-28 00:00:00 
-categories: [General]
-tags: [space, nasa]
+categories: [Space, Exploration]
+tags: [mars, perseverance rover]
 ---
 
 ### Introduction

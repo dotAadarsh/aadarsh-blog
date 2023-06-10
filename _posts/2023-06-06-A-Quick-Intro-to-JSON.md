@@ -1,8 +1,8 @@
 ---
 title: A quick intro to JSON {}
 date: 2023-06-06 00:00:00 
-categories: [IT]
-tags: [data]
+categories: [Technology, Programming]
+tags: [json, programming]
 ---
 
 JSON, which stands for JavaScript Object Notation, is the most popular and widely accepted data exchange format, and it was originally specified by [Douglas Crockford](https://en.wikipedia.org/wiki/Douglas_Crockford).
@@ -49,10 +49,11 @@ When sending data to a web server, the data has to be a string. Convert a JavaSc
 
 Check out this video by quick @[beaucarnes](https://twitter.com/beaucarnes?lang=en) via freeCodeCamp for a quick introduction to JSON
 
-{% include embed/{youtube}.html id='{B-k76DMOj2k}' %}
+{% include embed/youtube.html id='B-k76DMOj2k' %}
 
 You can visualize your JSON data instantly into graphs with this [JSON Crack tool](https://jsoncrack.com/editor). Thanks for the read!
 
 \- [Aadarsh K](https://twitter.com/dotAadarsh)
+
 
 

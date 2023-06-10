@@ -1,8 +1,8 @@
 ---
 title: 3xx - Redirection messages
 date: 2023-06-06 00:00:00 
-categories: [IT]
-tags: [networking, http-codes]
+categories: [Technology, Web Development]
+tags: [3xx, redirection messages]
 ---
 
 

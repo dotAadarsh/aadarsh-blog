@@ -1,8 +1,8 @@
 ---
 title: Space Debris | Junk in Space 
 date: 2020-06-20 00:00:00 
-categories: [General]
-tags: [space]
+categories: [Space, Technology]
+tags: [space debris, junk, space]
 ---
 
 ### Introduction

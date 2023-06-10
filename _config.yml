@@ -19,9 +19,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Aadarsh | Blog                         # the main title
+title: Aadarsh Kannan
 
-tagline: Documenting   # it will display as the sub-title
+tagline: Documenting!
 
 description: >-                        # used by seo meta and the atom feed
   A page created for documenting my learning journey.
@@ -30,22 +30,20 @@ description: >-                        # used by seo meta and the atom feed
 url: ''
 
 github:
-  username: dotaadarsh             # change to your github username
+  username: dotaadarsh
 
 twitter:
-  username: dotaadarsh            # change to your twitter username
+  username: dotaadarsh
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Aadarsh Kannan
-  email: aadarshkannan111@gmail.com             # change to your email address
+  email: aadarshkannan111@gmail.com
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/dotaadarsh      # change to your twitter homepage
-    - https://github.com/dotaadarsh       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://twitter.com/dotaadarsh
+    - https://github.com/dotaadarsh
     - https://www.linkedin.com/in/dotaadarsh
 
 google_site_verification:               # fill in to your verification string
@@ -117,7 +115,7 @@ assets:
 pwa:
   enabled: true   # the option for PWA feature
 
-paginate: 10
+paginate: 7
 
 # ------------ The following options are not recommended to be modified ------------------
 

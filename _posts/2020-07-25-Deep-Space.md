@@ -1,8 +1,8 @@
 ---
 title: NASA's deep space propulsion plans | List of some 
 date: 2020-07-25 00:00:00
-categories: [General]
-tags: [space, nasa]
+categories: [Space, Technology]
+tags: [nasa, deep space, propulsion]
 ---
 
 ### INTRODUCTION

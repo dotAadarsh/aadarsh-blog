@@ -1,8 +1,8 @@
 ---
 title: Find the Perfect Design and Illustration for Your Next Project
 date: 2023-05-19 00:00:00 
-categories: [Tools]
-tags: [illustrations, designs]
+categories: [Design, Art]
+tags: [design, illustration, tools]
 ---
 
 Are you searching for designs and illustrations for your next project? Here are some of the top websites where you can get free illustrations and designs.

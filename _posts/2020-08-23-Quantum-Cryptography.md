@@ -1,8 +1,8 @@
 ---
 title: Quantum Cryptography
 date: 2020-08-23 00:00:00 
-categories: [General]
-tags: [quantum, research]
+categories: [Science, Cryptography]
+tags: [quantum cryptography]
 ---
 
 ![](https://1.bp.blogspot.com/-dHbOK5DK7JE/XyPTQGduczI/AAAAAAAABgA/HnHvSpAndfs9ntrEMzYEF-W6SB4civYMACLcBGAsYHQ/w781-h520/analytics-3088958_1920.jpg)

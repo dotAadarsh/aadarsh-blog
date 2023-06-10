@@ -4,7 +4,7 @@
 -
   type: github
   icon: 'fab fa-github'
-  noblank: true # open link in current tab
+  noblank: false # open link in current tab
 -
   type: twitter
   icon: 'fab fa-twitter'
@@ -16,28 +16,21 @@
   type: linkedin
   icon: 'fab fa-linkedin'   
   url:  'https://in.linkedin.com/in/dotaadarsh'
-  noblank: true
+  noblank: false
 
 -
   type: spotify
   icon: 'fab fa-spotify'   
   url:  'https://open.spotify.com/user/w4vmhygkyyzefhe1u3bpqrlo6'
-  noblank: true
+  noblank: false
   
 -
   type: rss
   icon: 'fas fa-rss'
   noblank: true
 
-
-
-# Uncomment and complete the url below to enable more contact options
-# -
-#   type: mastodon
-#   icon: 'fab fa-mastodon'   
-#   url:  ''                  # Fill with your mastodon account page
-
-# -
-#   type: stack-overflow
-#   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
+-
+  type: stack-overflow
+  icon: 'fab fa-stack-overflow'
+  url:  'https://stackoverflow.com/users/18564668/aadarsh-k'
+  

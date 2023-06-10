@@ -1,8 +1,8 @@
 ---
 title: Betavoltaics Cell
 date: 2020-08-29 00:00:00 
-categories: [General]
-tags: [energy, nuclear] 
+categories: [Science, Energy]
+tags: [betavoltaics cell] 
 ---
 
 How would you prefer A battery that encompasses a 20+ year time period of continuous power with no need for a replacement or recharging?

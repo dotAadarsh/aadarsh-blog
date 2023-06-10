@@ -1,8 +1,8 @@
 ---
 title: Introduction to Regular Expressions in Python
 date: 2023-01-28 00:00:00 
-categories: [Programming]
-tags: [python, regex]
+categories: [Technology, Programming]
+tags: [regular expressions, python, programming]
 ---
 
 In Python, a regular expression (also called RegEx or RegExp) is a sequence of characters that define a search pattern. This search pattern can be used to match and extract information from text, such as matching specific characters, words, or patterns of characters. Regular expressions are often used in text processing and data mining tasks, such as data validation, data cleaning, and data extraction.

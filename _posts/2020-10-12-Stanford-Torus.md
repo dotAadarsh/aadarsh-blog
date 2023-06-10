@@ -1,8 +1,8 @@
 ---
 title: Stanford Torus
 date: 2020-10-12 00:00:00 
-categories: [General]
-tags: [space]
+categories: [Space, Architecture]
+tags: [stanford torus]
 ---
 
 ### Introduction

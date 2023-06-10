@@ -1,8 +1,8 @@
 ---
 title: Digital Immortality | Living Forever
 date: 2020-07-10 00:00:00 
-categories: [General]
-tags: [digital, research]
+categories: [Science, Technology]
+tags: [digital immortality, living forever]
 ---
 
 ### Introduction

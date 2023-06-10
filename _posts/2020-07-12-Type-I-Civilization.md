@@ -1,8 +1,8 @@
 ---
 title: Becoming a Type I Civilization 
 date: 2020-07-12 00:00:00 
-categories: [General, Technology]
-tags: [civilization]
+categories: [Science, Civilization]
+tags: [type i civilization]
 ---
 
 Welcome guys! The technology is rapidly increasing day by day. The scientist comes with a term for which the global civilization can be classified is called the [Kardashev Scale](https://www.blogger.com/u/1/blog/post/edit/1940897862948744641/4854779289886346916#). This measures the ability of a civilization to use all the energy available to it and it is scaled from 1 to 3. I hope this post will let you know about the Type I Civilization.

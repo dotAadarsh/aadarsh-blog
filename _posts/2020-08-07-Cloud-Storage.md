@@ -1,8 +1,8 @@
 ---
 title: Cloud Storage
 date: 2020-08-07 00:00:00 
-categories: [General, Technology]
-tags: [cloud, storage]
+categories: [Technology, Data Storage]
+tags: [cloud storage]
 ---
 
 ### Introduction

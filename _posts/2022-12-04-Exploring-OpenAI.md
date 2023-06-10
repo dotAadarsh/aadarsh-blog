@@ -1,8 +1,8 @@
 ---
 title: Exploring OpenAI Whisper
 date: 2022-12-04 00:00:00 
-categories: [Artificial_Intelligence]
-tags: [openai, speech-to-text, research] 
+categories: [Technology, Artificial Intelligence]
+tags: [openai, whisper] 
 ---
 
 ![OpenAI_Banner](https://cdn-images-1.medium.com/max/800/1*T4j8WlQOaXwTTxvgTdXTpQ.png)

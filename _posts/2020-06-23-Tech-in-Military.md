@@ -1,8 +1,8 @@
 ---
 title: Advanced Tech in Military
 date: 2020-06-23 00:00:00 
-categories: [General, Technology]
-tags: [military]
+categories: [Technology, Military]
+tags: [advanced tech, military]
 ---
 
 New technologies are emerging day by day. Hers are the top advanced technologies that are in militaries. Let's ride to it...
