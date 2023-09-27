@@ -5,9 +5,9 @@ platforms:
   -
     type: Twitter
     icon: "fab fa-twitter"
-    link: "https://twitter.com/intent/tweet?text=TITLE&url=https://www.aadarshkannan.tech/URL%20-%20@dotAadarsh"
+    link: "https://twitter.com/intent/tweet?text=TITLE&url=https://www.aadarshkannan.techURL%20-%20@dotAadarsh"
 
   -
     type: Linkedin
     icon: "fab fa-linkedin"
-    link: "https://www.linkedin.com/sharing/share-offsite/?url=https://www.aadarshkannan.tech/URL"
+    link: "https://www.linkedin.com/sharing/share-offsite/?url=https://www.aadarshkannan.techURL"
