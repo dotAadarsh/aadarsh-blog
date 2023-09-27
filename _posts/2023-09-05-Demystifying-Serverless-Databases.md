@@ -15,7 +15,7 @@ In a traditional database setup, you’re responsible for provisioning and manag
 
 Imagine you’re building an e-commerce website. With a traditional database, you’d need to manage the servers to ensure that your website can handle a surge in traffic during a holiday sale. But with a serverless database, the cloud provider automatically scales your database to meet demand, ensuring your site stays responsive.
 
-![Serverless Meme](https://github.com/dotAadarsh/aadarsh-blog/blob/main/assets/media/Serverless_Meme.png align="center")
+![Serverless Meme](/assets/media/serverless_meme.png)
 
 ## Key Benefits of Serverless Database
 
