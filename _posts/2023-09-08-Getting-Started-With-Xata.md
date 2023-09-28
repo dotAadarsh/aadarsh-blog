@@ -19,6 +19,31 @@ Once you have an account, you can create a new database in your workspace. Provi
 
 After creating your database, you will see the dashboard where you can view and edit your database schema, data, and settings. You can also use the Data API or the TypeScript SDK to interact with your database programmatically.
 
+
+## Understanding the interface
+
+Once you create your database, you will be able to see various options present in the UI. On the left side pane, we have various feature. Let me quickly walk you through it.
+
+The first option you see is the **branch**. Here you can create multiple branches. When you create a new branch, the schema is copied. When you create a development branch from a production branch, you have the option to duplicate and cleanse specific data segments or initiate the branch with test data.
+
+**Usage and limits** helps in understanding your database usages and limit it supports. Xata offer pricing choices that are both transparent and adaptable, designed to suit the distinct requirements of every user.
+
+A database **schema** is the blueprint or structure that defines how data is organized and stored within a database system. It outlines the tables, fields, relationships, constraints, and indexes that dictate how data is stored, accessed, and maintained. Think of it as the architectural plan that guides the creation and management of a database, ensuring data integrity and efficient retrieval. A well-designed database schema is essential for optimizing data storage, retrieval, and management in various applications and systems.
+
+![xata-schema-ui](/assets/media/xata-schema-example.png)
+
+**Playground**, as the name, we can play around with our database. The primary objective was to enable users to experiment and test SDK's without the need for any installations. 
+
+![xata-playground-example](/assets/media/xata-playground-example.png)
+
+**Search engine** enables us to search for any specific term within our database. With the multiple options we can get the desired results faster. 
+
+![xata-search-engine-example](/assets/media/xata-search-engine-example.png)
+
+In a database, **tables** serve as organized containers for storing data. They are fundamental components of the relational database model and consist of rows and columns
+
+![xata-table-example](/assets/media/xata-table-example.png)
+
 ## How to use Xata's transactions endpoint to execute multiple operations in one go
 
 One of the features that Xata offers is the transactions endpoint, which allows you to execute multiple operations together as a single unit. Let's see why transactions are important, how to use Xata's transactions endpoint, and perform an example of a transaction in action.
