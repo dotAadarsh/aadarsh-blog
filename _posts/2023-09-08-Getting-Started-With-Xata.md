@@ -116,6 +116,7 @@ Once you perform the above transaction, you will be able to see the values in th
 
 ![Xata-acid-transaction-music-table-view](/assets/media/Xata-music-table-view.png)
 
+
 In this article, I have introduced Xata, a platform that lets you build and iterate on your product faster with a simple and powerful API to access your data. I have focused on one of the features that Xata offers: the transactions endpoint, which allows you to execute multiple operations together as a single unit.
 
 I hope that you have found this article useful and informative. If you want to learn more about Xata and its other features, you can visit their website: [Xata.io](https://xata.io/) and join their amazing community on [discord](https://xata.io/discord).
