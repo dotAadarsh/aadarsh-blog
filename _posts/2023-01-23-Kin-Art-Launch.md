@@ -5,7 +5,7 @@ categories: [Technology]
 tags: [AI, Art]
 ---
 
-![Kin Art Logo](./assets/media/kin-art-logo-text-white.png)
+![Kin Art Logo](https://raw.githubusercontent.com/dotAadarsh/aadarsh-blog/main/assets/media/kin-art-logo-text-white.png)
 
 In a groundbreaking move, [Kin.art](https://kin.art/) has disrupted the art world by introducing the world's first AI-safe portfolio platform for artists. This revolutionary solution ensures that artists have control over their work, safeguarding it from unauthorized AI training before it even becomes part of any AI dataset.
 
