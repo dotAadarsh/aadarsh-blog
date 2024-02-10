@@ -7,7 +7,7 @@
   noblank: false # open link in current tab
 -
   type: twitter
-  icon: 'fab fa-twitter'
+  icon: 'fab fa-x-twitter'
 -
   type: email
   icon: 'fas fa-envelope'
