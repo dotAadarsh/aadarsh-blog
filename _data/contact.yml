@@ -2,35 +2,33 @@
 # icons powered by <https://fontawesome.com/>
 
 -
-  type: github
-  icon: 'fab fa-github'
-  noblank: false # open link in current tab
--
-  type: twitter
-  icon: 'fab fa-x-twitter'
--
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            
--
   type: linkedin
   icon: 'fab fa-linkedin'   
   url:  'https://in.linkedin.com/in/dotaadarsh'
+  noblank: false  
+
+-
+  type: twitter
+  icon: 'fab fa-x-twitter'
   noblank: false
 
 -
-  type: spotify
-  icon: 'fab fa-spotify'   
-  url:  'https://open.spotify.com/user/w4vmhygkyyzefhe1u3bpqrlo6'
+  type: github
+  icon: 'fab fa-github'
   noblank: false
-  
--
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
 
 -
   type: stack-overflow
   icon: 'fab fa-stack-overflow'
   url:  'https://stackoverflow.com/users/18564668/aadarsh-k'
-  
+  noblank: false
+
+-
+  type: email
+  icon: 'fas fa-envelope'
+  noblank: false
+
+-
+  type: rss
+  icon: 'fas fa-rss'
+  noblank: false

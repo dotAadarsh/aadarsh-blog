@@ -21,7 +21,7 @@ timezone:
 
 title: Aadarsh
 
-tagline: Documenting!
+tagline: Not Just Another Blog
 
 description: >-                        # used by seo meta and the atom feed
   A page created for documenting my learning journey.
@@ -79,7 +79,7 @@ theme_mode:   # [light|dark]
 img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/media/profile_pic.jpg
+avatar: /assets/media/A-Vertical.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
